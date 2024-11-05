@@ -13,7 +13,7 @@ DatabaseIO provides query methods like insert, select, update and delete to do d
 ## Setup DatabaseIO
 
 1. Enable SQL in your Qt project.
-2. Copy the database_io/ directory into your project source directory.
+2. Copy the database-io/ directory into your project source directory.
 3. Add all files in your projects CMakeLists.txt.
 4. ```#include "core_databaseio.h"```
 5. Make a child class of ```DatabaseModel``` like shown
