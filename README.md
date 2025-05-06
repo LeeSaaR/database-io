@@ -1,7 +1,7 @@
 # DatabaseIO - Database Input Ouput System
 
 > DatabaseIO is deprecated. See:  
-> [DBIO - Database Input Output](https://www.github.com/leesaar/dbio)
+> [DBIO - Database Input Output](https://www.github.com/leesaar/dbio)  
 > [DBIOG - Database Input Output Generator](https://www.github.com/leesaar/dbiog)
 
 DatabaseIO is a wrapper around the QtSql Module and it is a small input-output system for SQLite3 databases in Qt applications. 
